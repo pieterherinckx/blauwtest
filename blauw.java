@@ -9,6 +9,6 @@ public class blauw
 {
     private String kleur;
     public blauw(){
-        this.kleur = "groen";
+        this.kleur = "blauw";
     }
 }
